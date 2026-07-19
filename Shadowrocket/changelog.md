@@ -57,3 +57,16 @@
 - 所有规则集来自 [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
 - 配置维护由 Kimi Claw 自动执行
 - 如有问题请联系配置维护者
+
+## v1.0.1 (2026-07-20)
+
+### 规则集更新
+- rule/Shadowrocket/ChinaMax/ChinaMax.list: 2026-07-11T18:56:58Z -> 2026-07-19T19:03:54Z; rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list: 2026-07-11T18:56:58Z -> 2026-07-19T19:03:54Z; rule/Shadowrocket/ChinaIPs/ChinaIPs.list: 2026-07-11T18:56:58Z -> 2026-07-19T19:03:54Z; rule/Shadowrocket/Advertising/Advertising.list: 2026-07-11T18:56:58Z -> 2026-07-19T19:03:54Z; rule/Shadowrocket/Global/Global.list: 2026-07-11T18:56:58Z -> 2026-07-19T19:03:54Z; rule/Shadowrocket/Proxy/Proxy.list: 2026-07-03T18:38:18Z -> 2026-07-19T19:03:54Z; 
+
+### 发布状态
+- GitHub 提交: 自动推送
+- Raw 链接: https://raw.githubusercontent.com/vincentZero/share/main/Shadowrocket/DirectProxy.conf
+- 链接验证: 待验证
+
+### 下次检查时间
+2026-07-27
