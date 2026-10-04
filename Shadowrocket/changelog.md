@@ -171,3 +171,16 @@
 
 ### 规则集引用状态
 - 6 个上游规则集本周有更新（ChinaMax / ChinaIPs / Advertising / Global / Proxy 等），配置文件引用 raw 链接自动生效
+
+## v1.0.3 (2026-10-05)
+
+### 规则集更新
+- rule/Shadowrocket/ChinaMax/ChinaMax.list: 2026-09-27T20:46:57Z -> 2026-10-03T20:34:24Z; rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list: 2026-09-27T20:46:57Z -> 2026-10-03T20:34:24Z; rule/Shadowrocket/ChinaIPs/ChinaIPs.list: 2026-09-27T20:46:57Z -> 2026-10-03T20:34:24Z; rule/Shadowrocket/Advertising/Advertising.list: 2026-09-27T20:46:57Z -> 2026-10-03T20:34:24Z; rule/Shadowrocket/Global/Global.list: 2026-09-27T20:46:57Z -> 2026-10-03T20:34:24Z; rule/Shadowrocket/Proxy/Proxy.list: 2026-09-27T20:46:57Z -> 2026-10-03T20:34:24Z; 
+
+### 发布状态
+- GitHub 提交: 自动推送
+- Raw 链接: https://raw.githubusercontent.com/vincentZero/share/main/Shadowrocket/DirectProxy.conf
+- 链接验证: 待验证
+
+### 下次检查时间
+2026-10-12
