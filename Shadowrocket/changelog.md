@@ -223,3 +223,16 @@
 
 ### 下次检查时间
 2026-11-02
+
+## v1.0.7 (2026-11-02)
+
+### 规则集更新
+- rule/Shadowrocket/ChinaMax/ChinaMax.list: 2026-10-25T20:20:30Z -> 2026-10-27T21:45:18Z; rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list: 2026-10-25T20:20:30Z -> 2026-10-27T21:45:18Z; rule/Shadowrocket/ChinaIPs/ChinaIPs.list: 2026-10-25T20:20:30Z -> 2026-10-27T21:45:18Z; rule/Shadowrocket/Advertising/Advertising.list: 2026-10-25T20:20:30Z -> 2026-10-27T21:45:18Z; rule/Shadowrocket/Global/Global.list: 2026-10-25T20:20:30Z -> 2026-10-27T21:45:18Z; 
+
+### 发布状态
+- GitHub 提交: 自动推送
+- Raw 链接: https://raw.githubusercontent.com/vincentZero/share/main/Shadowrocket/DirectProxy.conf
+- 链接验证: 待验证
+
+### 下次检查时间
+2026-11-09
